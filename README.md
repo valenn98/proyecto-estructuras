@@ -1,5 +1,7 @@
 ## Proyecto Estructuras
 
+VIDEO: https://drive.google.com/file/d/1zWWoEJFIzlnbiKOYsB1tzW2ruocAnO4L/view?usp=sharing
+
 El proyecto fue desarrollado en Laravel
 
 Requisitos Para la instalación:
